@@ -1,10 +1,26 @@
 [
-    {"display_string":"Green Lantern"},
-    {"display_string":"Superman"},
-    {"display_string":"Wonder Woman"},
-    {"display_string":"Aquaman"},
-    {"display_string":"Wolverine"},
-    {"display_string":"The Flash"},
-    {"display_string":"Catwoman"},
-    {"display_string":"Batman"}
+    {
+        "display_string":"Green Lantern"
+    },
+    {
+        "display_string":"Superman"
+    },
+    {
+        "display_string":"Wonder Woman"
+    },
+    {
+        "display_string":"Aquaman"
+    },
+    
+    {"display_string":"Wolverine"
+    },
+    {
+        "display_string":"The Flash"
+    },
+    {
+        "display_string":"Catwoman"
+    },
+    {
+        "display_string":"Batman"
+    }
 ]
